@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:0000FF,83:4B0082,100:8B00FF&height=220&section=header&text=Yogesh%20Gadekar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=58&descSize=20&descColor=ffffff" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:0000FF,83:4B0082,100:8B00FF&height=210&section=header&text=Yogesh%20Gadekar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=56&descSize=19&descColor=ffffff" />
 </div>
 
 ---
@@ -11,15 +9,19 @@
 
 <td width="65%" valign="top">
 
-# 👋 Hello, I'm Yogesh Gadekar
+# 👋 Hey, I'm Yogesh Gadekar
+
+<div align="left">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&left=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python+Expert;3.4%2B+Years+of+Data+%26+BI+Experience;Building+Dashboards+that+Drive+Decisions;Data+Analyst+from+Pune%2C+India" alt="Typing SVG" />
+</a>
+</div>
 
 ### 📊 Data Analyst | Business Intelligence Analyst | Power BI Developer
 
 Analytical and results-oriented **Data Analyst** with **3.4+ years of experience** in reporting, operations analytics, dashboarding, ETL workflows, and business intelligence solutions.
 
 I specialize in transforming raw data into actionable insights through interactive dashboards, KPI reporting, data visualization, and storytelling.
-
----
 
 ### 🚀 Core Expertise
 
@@ -31,8 +33,6 @@ I specialize in transforming raw data into actionable insights through interacti
 ✔ Business Intelligence Reporting  
 ✔ Exploratory Data Analysis (EDA)  
 ✔ Data Storytelling & Insights  
-
----
 
 ### 🌐 Connect With Me
 
@@ -60,22 +60,16 @@ I specialize in transforming raw data into actionable insights through interacti
 
 <td width="35%" align="center" valign="top">
 
-<img src="https://i.postimg.cc/DfWRk5yx/YSG-Img.jpg"
+<img src="https://raw.githubusercontent.com/GADEKAR328/About-Me/main/YSG%20Img.jpeg"
 width="220"
 style="border-radius:50%; border:4px solid #00d4ff;" />
 
-<br><br>
-
 # ⚡ Quick Snapshot
 
-📍 Pune, India 🇮🇳
-
-💼 3.4+ Years Experience
-
-📊 Data & BI Analyst
-
-📈 Dashboard Specialist
-
+📍 Pune, India 🇮🇳  
+💼 3.4+ Years Experience  
+📊 Data & BI Analyst  
+📈 Dashboard Specialist  
 🧠 Data Storytelling Enthusiast
 
 <br>
@@ -106,16 +100,12 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Intermediate-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<br><br>
-
 ### 📊 BI & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-Advanced-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-F2C811?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-Advanced-00C2D6?style=for-the-badge)
-
-<br><br>
 
 ### 🐍 Programming & Analytics
 
@@ -149,13 +139,9 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 <div align="center">
 
-<img src="https://github.com/GADEKAR328/About-Me/blob/9d79afcbecf96dc92d68d0ed7bbcb5a6c97f1a33/IMG_20250528_090421.jpg?raw=true"
-width="420"
-style="border-radius:12px; margin:10px;" />
+<img src="https://github.com/GADEKAR328/About-Me/blob/9d79afcbecf96dc92d68d0ed7bbcb5a6c97f1a33/IMG_20250528_090421.jpg?raw=true" width="49%" style="border-radius:12px;" />
 
-<img src="https://github.com/GADEKAR328/About-Me/blob/82151e1022199b262fb1a2934adaaff83d8f4f48/IMG_20250528_090502.jpg?raw=true"
-width="420"
-style="border-radius:12px; margin:10px;" />
+<img src="https://github.com/GADEKAR328/About-Me/blob/82151e1022199b262fb1a2934adaaff83d8f4f48/IMG_20250528_090502.jpg?raw=true" width="49%" style="border-radius:12px;" />
 
 </div>
 
