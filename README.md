@@ -1,5 +1,7 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:0000FF,83:4B0082,100:8B00FF&height=210&section=header&text=Yogesh%20Gadekar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=56&descSize=19&descColor=ffffff"/>
+
 </div>
 
 <table>
@@ -37,7 +39,7 @@ I specialize in transforming raw data into actionable insights through interacti
 
 <p>
 
-<a href="https://www.linkedin.com/in/yogesh-gadekar-a1231b189">
+<a href="https://www.linkedin.com/in/yogesh-gadekar-a1231b189/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -45,24 +47,24 @@ I specialize in transforming raw data into actionable insights through interacti
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://skst.in">
+<a href="https://ysganalyst-portfolio-gem.lovable.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
-<a href="https://github.com/GADEKAR328">
+<a href="https://github.com/GADEKAR328" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/invites/contact/?i=1ewggiks2e4pb&utm_content=3k17m6w">
+<a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=3k17m6w" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/sivaji.r.bhosale">
+<a href="https://www.facebook.com/sivaji.r.bhosale" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://t.me/z00yt" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
@@ -89,13 +91,13 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 <br><br>
 
-<a href="https://github.com/GADEKAR328?tab=followers">
+<a href="https://github.com/GADEKAR328?tab=followers" target="_blank">
 <img src="https://img.shields.io/github/followers/GADEKAR328?style=for-the-badge&color=00d4ff"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/GADEKAR328?tab=repositories">
+<a href="https://github.com/GADEKAR328?tab=repositories" target="_blank">
 <img src="https://img.shields.io/github/stars/GADEKAR328?style=for-the-badge&color=f7c948"/>
 </a>
 
@@ -137,8 +139,6 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 # 🚀 Featured Projects
 
-<div align="center">
-  
 | 🏆 Project | 🛠️ Tools | 📌 Highlights |
 |:---|:---|:---|
 | 🍕 Food Delivery Analytics Dashboard | Power BI · DAX | 15,100+ orders analysed with KPI reporting |
