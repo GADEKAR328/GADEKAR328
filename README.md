@@ -139,6 +139,8 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 # 🚀 Featured Projects
 
+<div align="center">
+  
 | 🏆 Project | 🛠️ Tools | 📌 Highlights |
 |:---|:---|:---|
 | 🍕 Food Delivery Analytics Dashboard | Power BI · DAX | 15,100+ orders analysed with KPI reporting |
