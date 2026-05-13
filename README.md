@@ -53,6 +53,18 @@ I specialize in transforming raw data into actionable insights through interacti
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/invites/contact/?i=1ewggiks2e4pb&utm_content=3k17m6w">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/sivaji.r.bhosale">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 </td>
@@ -79,6 +91,12 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 <a href="https://github.com/GADEKAR328?tab=followers">
 <img src="https://img.shields.io/github/followers/GADEKAR328?style=for-the-badge&color=00d4ff"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/GADEKAR328?tab=repositories">
+<img src="https://img.shields.io/github/stars/GADEKAR328?style=for-the-badge&color=f7c948"/>
 </a>
 
 </td>
@@ -119,6 +137,8 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 # 🚀 Featured Projects
 
+<div align="center">
+  
 | 🏆 Project | 🛠️ Tools | 📌 Highlights |
 |:---|:---|:---|
 | 🍕 Food Delivery Analytics Dashboard | Power BI · DAX | 15,100+ orders analysed with KPI reporting |
