@@ -1,42 +1,41 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:0000FF,83:4B0082,100:8B00FF&height=210&section=header&text=Yogesh%20Gadekar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=56&descSize=19&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:0000FF,83:4B0082,100:8B00FF&height=210&section=header&text=Yogesh%20Gadekar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=56&descSize=19&descColor=ffffff"/>
 </div>
 
----
-
-<table width="100%">
+<table>
 <tr>
 
 <td width="65%" valign="top">
 
-# 👋 Hey, I'm Yogesh Gadekar
+<h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+Hey, I'm Yogesh Gadekar
+</h1>
 
-<div align="left">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&left=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python+Expert;3.4%2B+Years+of+Data+%26+BI+Experience;Building+Dashboards+that+Drive+Decisions;Data+Analyst+from+Pune%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D4FF&width=650&lines=Turning+Raw+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python+Expert;3.4%2B+Years+of+Data+%26+BI+Experience;Building+Dashboards+that+Drive+Decisions;Data+Analyst+from+Pune%2C+India"/>
 </a>
-</div>
 
-### 📊 Data Analyst | Business Intelligence Analyst | Power BI Developer
+### 📊 Data Analyst | BI Analyst | Power BI Developer
 
-Analytical and results-oriented **Data Analyst** with **3.4+ years of experience** in reporting, operations analytics, dashboarding, ETL workflows, and business intelligence solutions.
+Analytical and results-oriented **Data Analyst** with **3.4+ years of experience** in dashboarding, reporting, ETL workflows, and business intelligence solutions.
 
 I specialize in transforming raw data into actionable insights through interactive dashboards, KPI reporting, data visualization, and storytelling.
 
 ### 🚀 Core Expertise
 
-✔ Power BI & Tableau Dashboards  
-✔ SQL & Relational Databases  
-✔ Python for Data Analysis  
-✔ ETL & Data Cleaning  
-✔ KPI Reporting & Visualization  
-✔ Business Intelligence Reporting  
-✔ Exploratory Data Analysis (EDA)  
-✔ Data Storytelling & Insights  
+- Power BI & Tableau Dashboards  
+- SQL & Relational Databases  
+- Python for Data Analysis  
+- ETL & Data Cleaning  
+- KPI Reporting & Visualization  
+- Business Intelligence Reporting  
+- Exploratory Data Analysis (EDA)  
+- Data Storytelling & Insights  
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/yogesh-gadekar-a1231b189">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -60,11 +59,11 @@ I specialize in transforming raw data into actionable insights through interacti
 
 <td width="35%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/GADEKAR328/About-Me/main/YSG%20Img.jpeg"
+<img src="https://raw.githubusercontent.com/GADEKAR328/GADEKAR328/1837dc0a8fd2e0d79e5e0158513465fe293f3616/YSG%20Img.jpeg"
 width="220"
 style="border-radius:50%; border:4px solid #00d4ff;" />
 
-# ⚡ Quick Snapshot
+## ⚡ Quick Snapshot
 
 📍 Pune, India 🇮🇳  
 💼 3.4+ Years Experience  
@@ -74,7 +73,7 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=GADEKAR328&label=Profile+Views&color=00d4ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=GADEKAR328&label=Profile+Views&color=00d4ff&style=for-the-badge"/>
 
 <br><br>
 
@@ -120,8 +119,6 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 | 🏆 Project | 🛠️ Tools | 📌 Highlights |
 |:---|:---|:---|
 | 🍕 Food Delivery Analytics Dashboard | Power BI · DAX | 15,100+ orders analysed with KPI reporting |
@@ -131,17 +128,15 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 | 📚 SQL Online Bookstore DB | SQL · PostgreSQL | Normalized schema & query optimization |
 | 📈 Excel Sales Dashboard | Excel · Power Query | ₹5.82M+ revenue analysis |
 
-</div>
-
 ---
 
 # 🖼️ Dashboard Work Samples
 
 <div align="center">
 
-<img src="https://github.com/GADEKAR328/About-Me/blob/9d79afcbecf96dc92d68d0ed7bbcb5a6c97f1a33/IMG_20250528_090421.jpg?raw=true" width="49%" style="border-radius:12px;" />
+<img src="https://github.com/GADEKAR328/About-Me/blob/9d79afcbecf96dc92d68d0ed7bbcb5a6c97f1a33/IMG_20250528_090421.jpg?raw=true" width="45%"/>
 
-<img src="https://github.com/GADEKAR328/About-Me/blob/82151e1022199b262fb1a2934adaaff83d8f4f48/IMG_20250528_090502.jpg?raw=true" width="49%" style="border-radius:12px;" />
+<img src="https://github.com/GADEKAR328/About-Me/blob/82151e1022199b262fb1a2934adaaff83d8f4f48/IMG_20250528_090502.jpg?raw=true" width="45%"/>
 
 </div>
 
