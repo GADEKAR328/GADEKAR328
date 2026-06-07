@@ -142,7 +142,10 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 <div align="center">
   
 | 🏆 Project | 🛠️ Tools | 📌 Highlights |
-|:---|:---|:---|
+|------------|----------|--------------|
+| 🫀 Heart Disease Analytics Dashboard | Power BI · DAX · Healthcare Analytics | 299 patient records analysed with 68% survival rate insights |
+| 🧠 Brain Tumor Analytics Dashboard | Power BI · Power Query · DAX | 10,000 patient records analysed across tumor grades & brain regions |
+| 🧬 Alzheimer's MRI Analytics Dashboard | Python · Power BI · Image Processing | 36,000+ MRI scans processed with feature extraction & disease-stage analysis |
 | 🍕 Food Delivery Analytics Dashboard | Power BI · DAX | 15,100+ orders analysed with KPI reporting |
 | 👥 HR Analytics Dashboard | Tableau | 17.31% attrition analysis & workforce insights |
 | 🛒 Grocery Store Analytics | Power BI | ₹1.20M+ sales performance dashboard |
