@@ -152,16 +152,36 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 ---
 
-# 🖼️ Dashboard Work Samples
-
-<div align="center">
-
-<img src="https://github.com/GADEKAR328/About-Me/blob/9d79afcbecf96dc92d68d0ed7bbcb5a6c97f1a33/IMG_20250528_090421.jpg?raw=true" width="45%"/>
-
-<img src="https://github.com/GADEKAR328/About-Me/blob/82151e1022199b262fb1a2934adaaff83d8f4f48/IMG_20250528_090502.jpg?raw=true" width="45%"/>
-
-</div>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/GADEKAR328/GADEKAR328/2e349d176f5256bab5b2d939fc1d932ea6f780ec/Heart%20Disease%20Dashboard%20Male%20.jpg" width="300"/>
+      <br><b>Heart Disease Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/GADEKAR328/GADEKAR328/c2a4ec72ef826422219cef3dfa0f488c850001e6/Brain%20Tumor%20Disease%20Dashboard.jpg" width="300"/>
+      <br><b>Brain Tumor Analytics</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/GADEKAR328/GADEKAR328/c2a4ec72ef826422219cef3dfa0f488c850001e6/Alzheimer's%20Disease%20Dashboard.jpg" width="300"/>
+      <br><b>Alzheimer's Analytics</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/GADEKAR328/GADEKAR328/c2a4ec72ef826422219cef3dfa0f488c850001e6/HR%20Analytics%20Dashboard.jpg" width="300"/>
+      <br><b>HR Analytics Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/GADEKAR328/GADEKAR328/c2a4ec72ef826422219cef3dfa0f488c850001e6/Superstore%20sales%20Dashboard.JPG" width="300"/>
+      <br><b>Superstore Sales Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/GADEKAR328/GADEKAR328/c2a4ec72ef826422219cef3dfa0f488c850001e6/Swiggy%20Instamart%20.jpg" width="300"/>
+      <br><b>Swiggy Instamart Analytics</b>
+    </td>
+  </tr>
+</table>
 ---
 
 # 📜 Certifications
