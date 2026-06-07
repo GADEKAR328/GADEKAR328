@@ -139,7 +139,7 @@ style="border-radius:50%; border:4px solid #00d4ff;" />
 
 # 🚀 Featured Projects
 
-<div align="center">
+<div align="Left">
   
 | 🏆 Project | 🛠️ Tools | 📌 Highlights |
 |------------|----------|--------------|
